@@ -6,7 +6,7 @@ I build practical, end-to-end products at the intersection of machine learning, 
 
 I'm currently seeking AI/ML, Data Science, and Software Engineering internships or entry-level roles.
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [LeetCode](https://leetcode.com/u/your-profile) · [Email](mailto:ankit.raja12.0@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ankit-raja01/) · [LeetCode](https://leetcode.com/u/Ankit_Raja01/) · [Email](mailto:ankit.raja81270@gmail.com)
 
 ## What I build
 
@@ -37,4 +37,4 @@ I'm currently seeking AI/ML, Data Science, and Software Engineering internships 
 
 ## Let's connect
 
-If you're hiring for an internship or entry-level opportunity in AI/ML, Data Science, or Software Engineering, I'd be glad to connect via [Email](mailto:ankit.raja12.0@gmail.com) or [LinkedIn](https://linkedin.com/in/your-profile).
+If you're hiring for an internship or entry-level opportunity in AI/ML, Data Science, or Software Engineering, I'd be glad to connect via [Email](mailto:ankit.raja81270@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ankit-raja01/).
