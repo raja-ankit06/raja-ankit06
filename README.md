@@ -31,6 +31,10 @@ I'm currently seeking AI/ML, Data Science, and Software Engineering internships 
 | **AI & Data Science** | Pandas, NumPy, Scikit-learn, Jupyter, Multi-Agent Systems |
 | **Web & Cloud** | HTML/CSS, Node.js, Google Cloud Build, Git, GitHub |
 
+## Problem solving
+
+[LeetCode Profile (Ankit_Raja01)](https://leetcode.com/u/Ankit_Raja01/) – Active problem solver practicing Data Structures and Algorithms for technical interviews.
+
 ## Let's connect
 
 If you're hiring for an internship or entry-level opportunity in AI/ML, Data Science, or Software Engineering, I'd be glad to connect via [Email](mailto:ankit.raja12.0@gmail.com) or [LinkedIn](https://linkedin.com/in/your-profile).
