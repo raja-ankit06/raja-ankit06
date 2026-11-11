@@ -27,7 +27,7 @@ I'm currently seeking AI/ML, Data Science, and Software Engineering internships 
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Languages** | C++, Python, TypeScript, JavaScript, SQL |
 | **AI & Data Science** | Pandas, NumPy, Scikit-learn, Jupyter, Multi-Agent Systems |
 | **Web & Cloud** | HTML/CSS, Node.js, Google Cloud Build, Git, GitHub |
 
